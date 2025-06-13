@@ -14,14 +14,14 @@
 
 
 <p align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdodTdxdTgycmdpbG92Z3hnZG41YW96ZTRtbzJxamFieGZyOGMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F73KLZL9eAfDcDQFAt/giphy.gif"
-    width="90" heigth="20"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Desenvolvedora+Full+Stack;Especialista+em+Cloud+e+DevOps;Amante+de+Kubernetes+e+Python;Apaixonada+por+tecnologia+e+design!" alt="Typing SVG" />
- 
-  </p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdodTdxdTgycmdpbG92Z3hnZG41YW96ZTRtbzJxamFieGZyOGMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F73KLZL9eAfDcDQFAt/giphy.gif"
+       width="200" height="110" />
+  <br/>
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1b/5a/02/1b5a020b6e4c00394f71f68bde88db1c.gif" width="250px"/>
-  
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Desenvolvedora+Full+Stack+e+Cloud+DevSecOps" alt="Typing SVG" />
+</p>
 
 ## 🧠 Sobre mim 
 <p align="center">
