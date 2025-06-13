@@ -23,14 +23,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Desenvolvedora+Full+Stack+e+Cloud+DevSecOps" alt="Typing SVG" />
 </p>
 
-## 🧠 Sobre mim 
-<p align="center">
-  <p>
-✨ Desenvolvedora apaixonada por criar soluções criativas e funcionais.<p>
-🚀 Buscando evolução constante no desenvolvimento, Cloud, DevOps, Kubernetes e Python.<p> 
-🎨 Unindo tecnologia e design para entregar projetos incríveis.<p>
-💡 Sempre aprendendo, inovando e crescendo.
-</p>
+
+## 👱🏼‍♀️ Sobre mim
+
+
+<p>✨ Desenvolvedora full stack apaixonada por criar soluções criativas, funcionais e seguras.<p>
+<p>🚀 Em constante evolução nas áreas de desenvolvimento, Cloud, DevOps, Kubernetes, Docker, Linux (Ubuntu), Python, JavaScript, Node.js, PHP e bancos de dados (MySQL, PostgreSQL, MongoDB).<p>
+<p>🎨 Apaixonada por unir tecnologia e design para entregar projetos incríveis e com excelente experiência do usuário.<p>
+<p>💡 Valorizo aprendizado contínuo, inovação, colaboração em equipe e crescimento profissional.<p>
+<p>🏋️‍♀️ Além da tecnologia, sou entusiasta de academia, esportes, adoro animais e momentos ao ar livre.<p>
+<p>🤝 Acredito que equilíbrio entre vida pessoal e profissional é fundamental para alcançar resultados extraordinários.</p>
+
+</div>
 
 ---
 
