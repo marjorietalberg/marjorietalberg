@@ -1,67 +1,72 @@
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=header"/> </p>
+
+
+# Marjorie Talberg
+
+**`Desenvolvedora Full Stack | Cloud | DevSecOps`**
+
+<br>
+
+<!-- Contact Badges -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=header"/>
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/marjorie-pedroso-talberg-89112a35a" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F70000" 
+         style="height: 27px;" /></a>
+
+  <!-- Gmail Badge -->
+  <a href="mailto:marjorietalberg1@gmail.com" style="text-decoration: none;">
+    <img alt="Gmail" title="Me envie um email" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F70000" 
+         style="height: 27px;" /></a>
+
+  <!-- GitHub Badge -->
+  <a href="https://github.com/marjorietalberg" style="text-decoration: none;">
+    <img alt="GitHub" title="Veja meus repositórios no GitHub" 
+         src="https://custom-icon-badges.demolab.com/badge/-GitHub-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=F70000" 
+         style="height: 27px;" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=50&lines=Olá,+me+chamo+Marjorie" alt="Typing SVG" />
-</p>
+---
+
+<!-- Linux Penguin GIF -->
+<img align="right" alt="tux-typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="100px" />
+
+<!-- Cat Coding -->
+<img align="left" alt="cat-coding" src="https://media.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="120px"/>
+
+## Sobre mim
+
+Sou desenvolvedora Full Stack com experiência na criação de soluções criativas, funcionais e seguras.
+Tenho evolução contínua em **Cloud, DevSecOps, Kubernetes, Docker, Linux, Python, Node.js, PHP e bancos de dados**.
+Integro **tecnologia e design** para entregar produtos de alto impacto e ótima experiência do usuário.
+Valorizo **aprendizado contínuo, colaboração e inovação** como pilares do meu desenvolvimento profissional.
+Acredito que o **equilíbrio entre vida pessoal e profissional** é essencial para resultados sustentáveis e de excelência.
 
 
-
-<p align="center">
-  💻 Desenvolvedora Full Stack | 🌎 Cloud | ☸️ Kubernetes | 🐍 Python | 🎨 Design | 🔧 DevOps
-</p>
-
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdodTdxdTgycmdpbG92Z3hnZG41YW96ZTRtbzJxamFieGZyOGMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F73KLZL9eAfDcDQFAt/giphy.gif"
-       width="200" height="110" />
-  <br/>
-
-<p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Desenvolvedora+Full+Stack+e+Cloud+DevSecOps" alt="Typing SVG" />
-</p>
-
-
-## 👱🏼‍♀️ Sobre mim
-
-
-<p>✨ Desenvolvedora full stack apaixonada por criar soluções criativas, funcionais e seguras.<p>
-<p>🚀 Em constante evolução nas áreas de desenvolvimento, Cloud, DevOps, Kubernetes, Docker, Linux (Ubuntu), Python, JavaScript, Node.js, PHP e bancos de dados (MySQL, PostgreSQL, MongoDB).<p>
-<p>🎨 Apaixonada por unir tecnologia e design para entregar projetos incríveis e com excelente experiência do usuário.<p>
-<p>💡 Valorizo aprendizado contínuo, inovação, colaboração em equipe e crescimento profissional.<p>
-<p>🏋️‍♀️ Além da tecnologia, sou entusiasta de academia, esportes, adoro animais e momentos ao ar livre.<p>
-<p>🤝 Acredito que equilíbrio entre vida pessoal e profissional é fundamental para alcançar resultados extraordinários.</p>
-
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=F70000" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=F70000" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=white&labelColor=F70000" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=F70000" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-282A36?style=for-the-badge&logo=php&logoColor=white&labelColor=F70000" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=F70000" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-282A36?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=F70000" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-282A36?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=F70000" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=black&labelColor=F70000" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-282A36?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=F70000" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=F05032&labelColor=F70000" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-282A36?style=for-the-badge&logo=jenkins&logoColor=F24E1E&labelColor=F70000" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=F70000" />
 </div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas que uso
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 
-</p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
+<h3>📊 Estatísticas do GitHub</h3>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marjorietalberg&show_icons=true&theme=radical"/>
@@ -70,37 +75,19 @@
 
 ---
 
-## ✨ Curiosidades sobre mim
-
-<p align="center">
-  <p>
-💪 Amo academia e cuidar da saúde.<p>
-🐾 Apaixonada por animais.<p>
-⚽ Gosto muito de esportes<p>
-💻 Fascinada por aprender coisas novas na área de tecnologia.<p>
-</p>
-
-
-
----
-
-## 🌐 Onde me encontrar
+## <font color="#F70000">Contato</font>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marjorie-pedroso-talberg-89112a35a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:marjorietalberg1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-F70000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/marjorietalberg">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:marjorietalberg1@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-F70000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=footer"/>
