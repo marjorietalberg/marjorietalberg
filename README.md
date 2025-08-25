@@ -39,7 +39,7 @@
 ## Sobre mim
 
 Sou desenvolvedora Full Stack com experiência na criação de soluções criativas, funcionais e seguras.
-Tenho evolução contínua em **Cloud, DevSecOps, Kubernetes, Docker, Linux, Python, Node.js, PHP e bancos de dados**.
+Tenho evolução contínua em **Cloud, DevSecOps, Kubernetes, Docker, Linux, Python, Node.js, PHP e bancos de dados**. <br>
 Integro **tecnologia e design** para entregar produtos de alto impacto e ótima experiência do usuário.
 Valorizo **aprendizado contínuo, colaboração e inovação** como pilares do meu desenvolvimento profissional.
 Acredito que o **equilíbrio entre vida pessoal e profissional** é essencial para resultados sustentáveis e de excelência.
@@ -87,6 +87,9 @@ Acredito que o **equilíbrio entre vida pessoal e profissional** é essencial pa
   </a>
 </p>
 
+<p align="center">
+  <img alt="Pacman Contributions" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg" />
+</p>
 
 
 <p align="center">
