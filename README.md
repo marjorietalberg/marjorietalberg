@@ -3,7 +3,8 @@
 
 # Marjorie Talberg
 
-**`Desenvolvedora Full Stack | Cloud | DevSecOps`**
+**`Software Engineer | Full Stack Developer | JavaScript | DevOps`**
+
 
 <br>
 
@@ -28,22 +29,20 @@
          style="height: 27px;" /></a>
 </p>
 
----
 
-<!-- Linux Penguin GIF -->
-<img align="right" alt="tux-typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="100px" />
+##  Sobre mim
 
-<!-- Cat Coding -->
-<img align="left" alt="cat-coding" src="https://media.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="120px"/>
+<img align="right" alt="tux-typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
 
-## Sobre mim
+Sou **Software Engineer**, **Analista e Desenvolvedora de Sistemas**, com atuação em desenvolvimento Full Stack e práticas de DevOps, focada na criação de soluções modernas, escaláveis e seguras.
 
-Sou desenvolvedora Full Stack com experiência na criação de soluções criativas, funcionais e seguras.
-Tenho evolução contínua em **Cloud, DevSecOps, Kubernetes, Docker, Linux, Python, Node.js, PHP e bancos de dados**. <br>
-Integro **tecnologia e design** para entregar produtos de alto impacto e ótima experiência do usuário.
-Valorizo **aprendizado contínuo, colaboração e inovação** como pilares do meu desenvolvimento profissional.
-Acredito que o **equilíbrio entre vida pessoal e profissional** é essencial para resultados sustentáveis e de excelência.
+Possuo experiência no desenvolvimento de aplicações utilizando **JavaScript, Node.js e Python**, além de conhecimentos em **Cloud Computing, Docker, Kubernetes e Linux**, aplicando boas práticas de arquitetura, automação e integração contínua.
 
+Atuo desde a análise de requisitos até a implementação e entrega de soluções, garantindo código limpo, organizado e orientado a desempenho.
+
+Busco integrar **tecnologia e design** para desenvolver aplicações com alta qualidade, excelente experiência do usuário e impacto real.
+
+Tenho como pilares o **aprendizado contínuo, colaboração e inovação**, sempre em evolução para construir soluções cada vez mais eficientes, seguras e escaláveis.
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=F70000" />
@@ -66,31 +65,43 @@ Acredito que o **equilíbrio entre vida pessoal e profissional** é essencial pa
 
 
 
-<h3>📊 Estatísticas do GitHub</h3>
+## GitHub Analytics
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marjorietalberg&show_icons=true&theme=radical"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjorietalberg&layout=compact&theme=radical"/>
 </p>
+---
+
+##  Atividade & Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjorietalberg&theme=redical&bg_color=0d1117&color=F70000&line=F70000&point=FFFFFF&hide_border=true"/>
+</p>
 
 ---
 
-## <font color="#F70000">Contato</font>
+##  Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marjorie-pedroso-talberg-89112a35a">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-F70000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:marjorietalberg1@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-F70000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+
 
 <p align="center">
   <img alt="Pacman Contributions" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg" />
 </p>
 
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=footer"/>
