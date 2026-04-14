@@ -63,14 +63,6 @@ Tenho como pilares o **aprendizado contínuo, colaboração e inovação**, semp
 ---
 
 
-##  GitHub Analytics
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marjorietalberg&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjorietalberg&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-
 
 ##  Atividade Recente
 
