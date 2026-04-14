@@ -63,15 +63,23 @@ Tenho como pilares o **aprendizado contínuo, colaboração e inovação**, semp
 ---
 
 
-
-
-## GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marjorietalberg&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjorietalberg&layout=compact&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marjorietalberg&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjorietalberg&layout=compact&theme=radical&hide_border=true"/>
 </p>
----
+
+
+
+##  Atividade Recente
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marjorietalberg&theme=radical&hide_border=true"/>
+</p>
+
+
+
 
 ##  Atividade & Contribuições
 
@@ -79,9 +87,6 @@ Tenho como pilares o **aprendizado contínuo, colaboração e inovação**, semp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjorietalberg&theme=redical&bg_color=0d1117&color=F70000&line=F70000&point=FFFFFF&hide_border=true"/>
 </p>
 
----
-
-##  Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marjorie-pedroso-talberg-89112a35a">
@@ -93,15 +98,11 @@ Tenho como pilares o **aprendizado contínuo, colaboração e inovação**, semp
   </a>
 </p>
 
----
-
-
-
 <p align="center">
   <img alt="Pacman Contributions" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=footer"/>
