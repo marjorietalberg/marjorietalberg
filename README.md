@@ -30,19 +30,27 @@
 </p>
 
 
+
 ##  Sobre mim
 
 <img align="right" alt="tux-typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
 
 Sou **Software Engineer**, **Analista e Desenvolvedora de Sistemas**, com atuação em desenvolvimento Full Stack e práticas de DevOps, focada na criação de soluções modernas, escaláveis e seguras.
 
-Possuo experiência no desenvolvimento de aplicações utilizando **JavaScript, Node.js e Python**, além de conhecimentos em **Cloud Computing, Docker, Kubernetes e Linux**, aplicando boas práticas de arquitetura, automação e integração contínua.
+Possuo experiência no desenvolvimento de aplicações utilizando **JavaScript, Node.js e Python**, atuando tanto no frontend quanto no backend, além de conhecimentos em **Cloud Computing, Docker, Kubernetes e Linux**, aplicando boas práticas de arquitetura, automação, integração e entrega contínua (**CI/CD**).
 
-Atuo desde a análise de requisitos até a implementação e entrega de soluções, garantindo código limpo, organizado e orientado a desempenho.
+Tenho vivência no ciclo completo de desenvolvimento de software (**SDLC**), desde o levantamento e análise de requisitos até o desenvolvimento, testes, deploy e monitoramento de aplicações, sempre com foco em qualidade, performance e confiabilidade.
 
-Busco integrar **tecnologia e design** para desenvolver aplicações com alta qualidade, excelente experiência do usuário e impacto real.
+Busco constantemente aplicar conceitos de **Clean Code, boas práticas de engenharia de software e arquitetura escalável**, garantindo sistemas organizados, eficientes e de fácil manutenção.
 
-Tenho como pilares o **aprendizado contínuo, colaboração e inovação**, sempre em evolução para construir soluções cada vez mais eficientes, seguras e escaláveis.
+Tenho interesse e atuação em áreas como **DevOps, automação de processos, infraestrutura como código e integração de soluções inteligentes**, acompanhando tendências como **Inteligência Artificial** para construção de aplicações mais inovadoras.
+
+Acredito na integração entre **tecnologia e design** como diferencial para criar produtos digitais que entreguem não apenas funcionalidade, mas também uma excelente experiência ao usuário.
+
+Tenho como pilares o **aprendizado contínuo, colaboração, disciplina e inovação**, sempre em evolução para desenvolver soluções que gerem impacto real e contribuam para ambientes tecnológicos modernos e eficientes.
+
+
+
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=F70000" />
@@ -50,34 +58,18 @@ Tenho como pilares o **aprendizado contínuo, colaboração e inovação**, semp
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=white&labelColor=F70000" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=F70000" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-282A36?style=for-the-badge&logo=php&logoColor=white&labelColor=F70000" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=F70000" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-282A36?style=for-the-badge&logo=node.js&logoColor=white&labelColor=F70000" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-282A36?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=F70000" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-282A36?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=F70000" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-282A36?style=for-the-badge&logo=linux&logoColor=black&labelColor=F70000" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-282A36?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=F70000" />
   <img alt="Git" src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=F05032&labelColor=F70000" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-282A36?style=for-the-badge&logo=jenkins&logoColor=F24E1E&labelColor=F70000" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-282A36?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=F70000" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=F70000" />
 </div>
 
----
 
-
-
-##  Atividade Recente
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=marjorietalberg&theme=radical&hide_border=true"/>
-</p>
-
-
-
-
-##  Atividade & Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjorietalberg&theme=redical&bg_color=0d1117&color=F70000&line=F70000&point=FFFFFF&hide_border=true"/>
-</p>
+----
 
 
 <p align="center">
@@ -86,14 +78,32 @@ Tenho como pilares o **aprendizado contínuo, colaboração e inovação**, semp
   </a>
 
   <a href="mailto:marjorietalberg1@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marjorietalberg&theme=radical&hide_border=true"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marjorietalberg&theme=redical&bg_color=0d1117&color=F70000&line=F70000&point=FFFFFF&hide_border=true"/>
+</p>
+
+
 
 <p align="center">
   <img alt="Pacman Contributions" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg" />
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marjorietalberg&color=F70000&style=for-the-badge"/>
+</p>
 
 
 <p align="center">
